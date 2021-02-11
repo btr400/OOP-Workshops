@@ -38,7 +38,7 @@ FILE* sfptr = nullptr;
 //   char m_title[MAX_TITLE_LENGTH + 1];
 //   int m_quantity;
 //   bool m_bought;
-//};
+//};==
 
 //const int MAX_NO_OF_RECS = 15;
 ShoppingRec recs[MAX_NO_OF_RECS] = {};
