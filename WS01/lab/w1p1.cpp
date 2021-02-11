@@ -1,14 +1,4 @@
 // Workshop 1:
-// Workshop 1:
-// Workshop 1:
-// Workshop 1:
-// Workshop 1:
-// Workshop 1:
-// Workshop 1:
-// Workshop 1:
-// Workshop 1:
-// Workshop 1:
-// Workshop 1:
 // Version: 1.0
 //   fixed bug for deleting the first item. 
 //   this fix did not effect submission results
