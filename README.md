@@ -1,8 +1,8 @@
-# Workshop #1: Modules  (V1.2) released
- - (V1.0) (Submission is not open)
- - (V1.1) Removed #include <cstring> from the tester that was added by mistake. Also clarified DIY instructions.
- - (V1.2) Corrected list of files to be submitted for DIY (part 2) section
- 
+# IPC144 Review Session for OOP244 Students
+## Review Recordings
+- [BigBlueButton](https://recordings.rna2.blindsidenetworks.com/senecacollege/0b553525140a0a7885b1f0a71edfa98d2652d1ff-1611493114663/capture/) - [YouTube](https://youtu.be/_Ktv6ti5iuA)
+## Review Session Codes
+- [Goto Repo](https://github.com/Seneca-244200/OOP244NAB-Notes/tree/main/IPC144Review)
 # Computer preparation and Getting Workshop files
 
 ## Setting up your computers for OOP244
